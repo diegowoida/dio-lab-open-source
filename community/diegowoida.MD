@@ -1,5 +1,5 @@
 # Diego Woida
-Bacharel em Ciência da Computação pela UTFPR-MD (Universidade Tecnológica Federal do Paraná - Campus Medianeira).
+Bacharel em Ciência da Computação pela UTFPR-MD (Universidade Tecnológica Federal do Paraná - Campus Medianeira).  
 Pós-graduação em Lei Geral de Proteção de Dados.
 
 ## Links
